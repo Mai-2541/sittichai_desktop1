@@ -63,7 +63,7 @@ include("header.php");
             <?php
                 }
             } else {
-                echo "ไม่พบข้อมูล..";
+                echo "์NO DATA!!";
             }
             ?>
 
