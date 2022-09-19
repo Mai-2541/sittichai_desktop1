@@ -64,7 +64,7 @@ include("header.php");
                 }
             } else {
                 echo "์NO DATA!!";
-                555555555555555
+                Hello
                 
             }
             ?>
